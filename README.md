@@ -5,3 +5,5 @@ This repo contains Python implementation of fundamental machine learning classif
 - Logistic Regression
 - kernel Logistic Regression
 - Neural Network Classifier with one or two hidden layer(s)
+
+_"classalgorithms.py"_ contains the implementation of the algorithms with each of them having their own separate class. 
