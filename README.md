@@ -1,5 +1,5 @@
 # Machine Learning Classification Algorithms
-This repo contains Python implementation of fundamental machine learning classification algorithms. All algorithms heve been coded from scratch (no libraries) for a deep understanding of how each works. The algorithms include:
+This repo contains Python implementations of fundamental machine learning classification algorithms. All algorithms heve been coded from scratch (no libraries) for a deep understanding of how each of them works. The algorithms include:
 - Linear Regression Classifier with ridge regularization
 - Gaussian naive Bayes Classifier
 - Logistic Regression
